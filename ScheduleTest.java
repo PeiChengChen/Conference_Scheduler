@@ -1,5 +1,4 @@
-/* Your code must work with test class.
-   Do not alter this class.
+/* Class given in class
 */
 
 import java.util.ArrayList;
