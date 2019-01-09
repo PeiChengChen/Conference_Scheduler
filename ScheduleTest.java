@@ -1,4 +1,4 @@
-/* Class given in class
+/* Test class (given in class)
 */
 
 import java.util.ArrayList;
